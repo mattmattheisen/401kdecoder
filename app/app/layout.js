@@ -1,3 +1,4 @@
+import './globals.css';
 export const metadata = {
   title: 'Plan Decoder',
   description: 'Scan a 401(k)/403(b) statement to decode fees & allocation.'
